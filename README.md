@@ -1,1 +1,1 @@
-Flask app for a using meta developer for incoming messages
+Flask app for creating whatsapp flows using meta developer, test made for demo purposes.
